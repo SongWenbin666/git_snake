@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+.venv/
+venv/
+
+# 忽略缓存和编译文件
+__pycache__/
+*.py[cod]
+
+# 忽略编辑器配置
+.vscode/
+.idea/
